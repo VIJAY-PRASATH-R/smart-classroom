@@ -1,4 +1,4 @@
-# 📚 Smart Classroom – Real-Time Student Engagement
+Smart Classroom – Real-Time Student Engagement
 
 Smart Classroom is a deep learning–based system that helps teachers monitor **student mood/engagement in real-time**.  
 
@@ -8,12 +8,10 @@ Smart Classroom is a deep learning–based system that helps teachers monitor **
 
 ---
 
-## 🚀 Features
+Features
 - Real-time student mood prediction from webcam feed  
 - Pre-trained CNN model (`cnn_emotion_model.h5`)  
 - Teacher dashboard with live updates  
 - Class mode (majority mood) displayed  
 
 ---
-
-## 📂 Repository Structure
